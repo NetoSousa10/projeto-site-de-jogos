@@ -3,6 +3,7 @@
 
 >Status do projeto: Completo
 
-...
+Projeto feito em:
+```
 HTML, CSS3 e Javascript
-...
+```
